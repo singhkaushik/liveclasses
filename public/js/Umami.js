@@ -1,6 +1,6 @@
 'use strict';
 
-const url = 'https://sfu.liveclasses.duckdns.org/stats';
+const url = 'https://sfu.mirotalk.com/stats';
 
 fetch(url)
     .then((response) => {
